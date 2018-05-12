@@ -1,0 +1,28 @@
+_repo: Practical-Rules-for-the-Management-of-a-Locomotive-Enginein-the-Station-on-the-Road-and-in-ca__19133
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gregory, Charles Hutton
+    birthdate: 1817
+    deathdate: 1898
+    gutenberg_agent_id: '8496'
+    url: http://www.gutenberg.org/2009/agents/8496
+description: ''
+gutenberg_issued: '2006-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TJ'
+- !lcsh 'Locomotives -- Maintenance and repair'
+title: 'Practical Rules for the Management of a Locomotive Engine
+
+  in the Station, on the Road, and in cases of Accident'
+url: http://www.gutenberg.org/ebooks/19133
