@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8496'
     url: http://www.gutenberg.org/2009/agents/8496
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19133#Practical-Rules-for-the-Management-of-a-Locomotive-Enginein-the-Station-on-the-Road-and-in-ca_
 gutenberg_issued: '2006-08-28'
 gutenberg_type: Text
 identifiers:
